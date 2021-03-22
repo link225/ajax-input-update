@@ -43,6 +43,5 @@ C'est un project qui va permettre de resoudre et de faire connaitre les solution
 <ol> Les fichiers concerner 
     <li>public/main.js</li>
     <li>resource/view/Test/*</li>
-    <li>resource/view/Test/*</li>
 </ol>
 </p>
